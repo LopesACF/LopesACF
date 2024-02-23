@@ -1,7 +1,6 @@
 Olá, I am @LopesACF
 
 
-- 👀 Aprendendo C#
-- 🌱 Informática (Nova Matriz) 1/3
+- 👀 Aprendendo
 - 📫 altemilsonlopes@gmail.com
 - 📞 13 996071703
